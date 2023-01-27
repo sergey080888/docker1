@@ -1,4 +1,4 @@
-Для замены страницы приветсвия Nginx на index.html необходимо:<br> 
+<h1>Для замены страницы приветсвия Nginx на index.html необходимо:</h1><br> 
 1.смонтировать образ <br> 
  docker docker build -t my-nginx .<br> 
 2.запустить образ my-nginx командой<br> 
